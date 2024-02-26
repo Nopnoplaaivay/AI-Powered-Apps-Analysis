@@ -1,0 +1,164 @@
+Gender,raw major,academic year,apps used,recommendation,ease of use,domain proficiency,perceived usefulness,intention,frequency,academic application,research application,Major
+m,công nghệ thông tin,2,"Chat-GPT, Grammarly, Notion, Turnitin, Coursera",friends recommendation,5,5,5,5,Hàng ngày,Đã từng,Đã từng,computer science
+m,công nghệ thông tin,2,"Chat-GPT, Microsoft Copilot, Google Bard","social media, friends recommendation",5,4,5,5,Hàng tháng,Đã từng,Chưa,computer science
+m,it,2,"Chat-GPT, Microsoft Copilot, Google Bard, Turnitin, GPTZero",social media,5,5,4,3,Hàng tuần,Đã từng,Đã từng,computer science
+m,it,2,"Chat-GPT, Microsoft Copilot, Google Bard",social media,5,5,5,5,Hàng ngày,Đã từng,Đã từng,computer science
+m,it,2,Chat-GPT,friends recommendation,5,3,4,5,Hiếm khi,Đã từng,Chưa,computer science
+m,it,2,"Chat-GPT, Microsoft Copilot",social media,4,3,4,3,Hàng tuần,Đã từng,Chưa,computer science
+f,công nghệ thông tin,2,Chat-GPT,friends recommendation,4,3,4,5,Hàng tuần,Đã từng,Chưa,computer science
+m,cntt,1,Chat-GPT,friends recommendation,3,3,3,3,Hàng ngày,Đã từng,Chưa,computer science
+m,it,2,"Chat-GPT, Microsoft Copilot, Google Bard, Notion","social media, friends recommendation",5,3,4,4,Hàng ngày,Đã từng,Đã từng,computer science
+m,cntt,1,"Chat-GPT, Google Bard, Grammarly","social media, friends recommendation",3,3,3,4,Hiếm khi,Đã từng,Đã từng,computer science
+m,it,2,"Chat-GPT, Microsoft Copilot, Google Bard, Notion, Coursera",social media,3,3,3,3,Hàng ngày,Đã từng,Đã từng,computer science
+f,hệ thống thông tin quản lý,3,"Chat-GPT, Google Bard, Grammarly","social media, friends recommendation",5,4,5,5,Hàng tuần,Đã từng,Chưa,computer science
+f,công nghệ thông tin,2,"Chat-GPT, Grammarly, Notion, Turnitin, Coursera",social media,4,3,4,4,Hàng tuần,Đã từng,Chưa,computer science
+m,công nghệ thông tin,2,Microsoft Copilot,friends recommendation,4,3,5,4,Hiếm khi,Chưa,Chưa,computer science
+f,tài chính doanh nghiệp,4,"Chat-GPT, Microsoft Copilot, Google Bard","social media, friends recommendation",5,4,5,5,Hàng tuần,Đã từng,Đã từng,Finance
+m,cntt,1,"Chat-GPT, Grammarly",social media,3,2,3,3,Hàng tháng,Chưa,Chưa,computer science
+m,công nghệ thông tin,3,"Chat-GPT, Microsoft Copilot, Google Bard, Grammarly, Notion, Turnitin, Coursera","social media, friends recommendation",5,5,5,5,Hàng tuần,Đã từng,Chưa,computer science
+f,khoa học máy tính,1,Chat-GPT,friends recommendation,5,3,3,5,Hàng tuần,Đã từng,Chưa,computer science
+m,it,4,"Chat-GPT, Google Bard, Grammarly, Notion",independent discovery,4,4,4,3,Hàng ngày,Đã từng,Chưa,computer science
+m,khoa học máy tính,2,Chat-GPT,social media,4,3,4,4,Hiếm khi,Đã từng,Chưa,computer science
+m,it,3,"Chat-GPT, Microsoft Copilot, Google Bard, Grammarly, Notion, Turnitin",social media,4,4,4,5,Hiếm khi,Đã từng,Đã từng,computer science
+m,khoa học máy tinh,1,Microsoft Copilot,social media,4,3,3,4,Hàng ngày,Đã từng,Chưa,computer science
+f,mis,3,"Chat-GPT, Google Bard, Grammarly, Notion",social media,3,4,4,4,Hàng tuần,Đã từng,Đã từng,computer science
+f,it,2,Chat-GPT,"social media, friends recommendation",3,3,3,3,Hàng ngày,Đã từng,Chưa,computer science
+m,cntt,2,"Chat-GPT, Google Bard, Grammarly",social media,4,3,3,3,Hàng tuần,Đã từng,Chưa,computer science
+f,quan hệ công chúng,3,"Chat-GPT, Microsoft Copilot","social media, friends recommendation",5,5,5,5,Hàng tuần,Đã từng,Chưa,Social Science
+m,công nghệ thông tin,3,"Chat-GPT, Microsoft Copilot, Google Bard","social media, friends recommendation",4,4,4,4,Hàng ngày,Đã từng,Chưa,computer science
+m,it,1,"Chat-GPT, Microsoft Copilot, Coursera",social media,4,2,4,4,Hàng ngày,Đã từng,Chưa,computer science
+m,khoa học máy tính,1,"Chat-GPT, Google Bard","social media, friends recommendation",4,4,5,4,Hàng ngày,Đã từng,Chưa,computer science
+f,it,1,"Chat-GPT, Microsoft Copilot, Google Bard","social media, friends recommendation",4,3,4,4,Hàng ngày,Đã từng,Đã từng,computer science
+f,cntt,2,Chat-GPT,social media,4,4,4,4,Hàng tuần,Đã từng,Đã từng,computer science
+f,qtnl,2,"Chat-GPT, Grammarly, Notion, Coursera","social media, friends recommendation",4,4,4,5,Hàng ngày,Đã từng,Đã từng,Economic
+m,công nghệ thông tin,3,"Chat-GPT, Microsoft Copilot, Google Bard",social media,5,5,5,5,Hàng ngày,Đã từng,Đã từng,computer science
+f,hệ thống thông tin quản lý,2,"Chat-GPT, Grammarly, Notion, Turnitin, Coursera","social media, friends recommendation",5,4,5,5,Hàng tuần,Đã từng,Chưa,computer science
+f,cntt&cds,1,"Chat-GPT, Grammarly",social media,5,4,5,5,Hàng tuần,Đã từng,Chưa,computer science
+f,cntt,3,"Chat-GPT, Microsoft Copilot, Grammarly, Notion, Coursera",friends recommendation,3,4,4,4,Hàng tuần,Đã từng,Chưa,computer science
+f,thương mại điện tử,5,"Chat-GPT, Grammarly, Notion, Turnitin","social media, friends recommendation",5,4,4,4,Hàng ngày,Đã từng,Chưa,Economic
+f,giáo dục,4,Chat-GPT,social media,4,4,4,4,Hàng tháng,Đã từng,Chưa,Education
+f,quản trị nhân lực,2,"Chat-GPT, Microsoft Copilot, Grammarly, Notion",social media,4,4,3,4,Hàng tuần,Đã từng,Chưa,Economic
+f,thống kê,2,"Chat-GPT, Grammarly, Turnitin","social media, friends recommendation",4,5,4,5,Hàng tuần,Đã từng,Chưa,Economic
+f,hệ thống thông tin quản lý,4,"Chat-GPT, Google Bard, Turnitin","social media, friends recommendation",4,4,4,4,Hàng ngày,Đã từng,Chưa,computer science
+f,công nghệ thông ti,3,"Chat-GPT, Google Bard","social media, friends recommendation",1,3,2,1,Hàng tuần,Đã từng,Chưa,computer science
+f,kiểm toán,4,"Chat-GPT, Grammarly, Notion","social media, friends recommendation",4,4,3,4,Hàng tuần,Đã từng,Đã từng,Economic
+m,cntt,2,"Chat-GPT, Grammarly",social media,5,5,5,5,Hàng ngày,Đã từng,Chưa,computer science
+f,it,2,Chat-GPT,social media,5,3,3,5,Hàng tháng,Đã từng,Chưa,computer science
+m,cntt,3,Chat-GPT,"social media, friends recommendation",3,3,3,3,Hàng tuần,Đã từng,Chưa,computer science
+m,it,2,"Chat-GPT, Microsoft Copilot, Grammarly",social media,4,4,4,5,Hàng ngày,Đã từng,Chưa,computer science
+f,luật,3,"Chat-GPT, Google Bard, Coursera, Edx","social media, friends recommendation",5,3,5,5,Hàng tuần,Đã từng,Chưa,Law
+f,ngôn ngữ anh,1,Chat-GPT,"social media, friends recommendation",4,2,2,2,Hàng tháng,Đã từng,Đã từng,Language
+m,tài chính doanh nghiệp,2,"Chat-GPT, Google Bard, Turnitin",social media,3,2,2,4,Hiếm khi,Chưa,Đã từng,Finance
+m,công nghệ thông tin,2,"Chat-GPT, Microsoft Copilot, Grammarly, Turnitin",social media,3,3,4,4,Hàng tuần,Đã từng,Đã từng,computer science
+m,khoa học máy tính,1,"Chat-GPT, Microsoft Copilot",social media,5,5,5,5,Hàng tuần,Chưa,Chưa,computer science
+m,luật kinh tế,4,"Chat-GPT, Microsoft Copilot, Google Bard, Grammarly",social media,4,2,3,5,Hàng tuần,Đã từng,Đã từng,Law
+f,qtkd,3,Chat-GPT,friends recommendation,3,2,3,4,Hiếm khi,Đã từng,Đã từng,Economic
+m,computer science,4,"Chat-GPT, Microsoft Copilot","social media, friends recommendation",5,5,5,5,Hàng ngày,Đã từng,Đã từng,computer science
+m,công nghệ thông tin,2,"Chat-GPT, Microsoft Copilot, Google Bard, Grammarly",social media,5,5,5,5,Hàng tuần,Đã từng,Chưa,computer science
+m,htttql,2,Stable Diffusion,social media,4,2,4,2,Hiếm khi,Đã từng,Chưa,computer science
+f,công nghệ thông tin,2,"Chat-GPT, Google Bard, Grammarly, Notion",friends recommendation,4,2,5,5,Hàng ngày,Đã từng,Đã từng,computer science
+f,logistics và quản lý chuỗi cug ứng,2,"Chat-GPT, Google Bard, Poe","social media, friends recommendation",4,3,4,4,Hàng tuần,Đã từng,Chưa,Economic
+f,công nghệ thông tin,2,"Chat-GPT, Google Bard","social media, friends recommendation",4,4,4,4,Hàng ngày,Đã từng,Chưa,computer science
+m,toán,2,Chat-GPT,social media,4,4,3,3,Hàng ngày,Đã từng,Chưa,Economic
+m,quản trị nhân lực,1,"Chat-GPT, Microsoft Copilot","social media, friends recommendation",4,4,5,4,Hàng tuần,Đã từng,Chưa,Economic
+f,sư phạm,2,"Chat-GPT, Microsoft Copilot, Google Bard, Turnitin, GPTZero",social media,4,3,4,3,Hàng tháng,Đã từng,Chưa,Education
+m,xây dựng,2,Chat-GPT,friends recommendation,5,5,5,5,Hàng tháng,Đã từng,Chưa,Engineering
+f,qtkd,3,"Chat-GPT, Turnitin","social media, friends recommendation",5,5,5,5,Hàng ngày,Đã từng,Đã từng,Economic
+f,truyền thông đại chúng,2,"Grammarly, Notion","social media, friends recommendation",3,3,3,3,Hiếm khi,Chưa,Chưa,Social Science
+m,tài chính,2,Chat-GPT,"social media, friends recommendation",5,5,5,5,Hàng ngày,Đã từng,Đã từng,Finance
+m,quản trị kinh doanh,2,"Chat-GPT, Google Bard, Grammarly, Notion, Bing AI","social media, friends recommendation",5,5,5,5,Hàng tuần,Đã từng,Chưa,Economic
+m,cntt,1,"Chat-GPT, Bard","social media, friends recommendation",5,5,5,5,Hàng ngày,Đã từng,Chưa,computer science
+m,khoa học máy tính,2,Chat-GPT,social media,4,4,3,4,Hàng ngày,Đã từng,Chưa,computer science
+f,hệ thống thông tin quản lý,3,"Chat-GPT, Grammarly, Notion","social media, friends recommendation",4,4,4,4,Hàng ngày,Đã từng,Đã từng,computer science
+f,tài chính - ngân hàng,2,Google Bard,friends recommendation,3,4,3,4,Hàng tuần,Đã từng,Chưa,Finance
+f,hệ thống thông tin quản lý,2,"Chat-GPT, Microsoft Copilot, Google Bard, Grammarly, Notion, Turnitin",friends recommendation,4,5,5,5,Hàng tuần,Đã từng,Chưa,computer science
+f,truyền thông đa phương tiện,2,"Chat-GPT, Google Bard, Notion","social media, friends recommendation",5,5,5,5,Hàng tuần,Đã từng,Chưa,Social Science
+m,cntt,1,"Chat-GPT, Grammarly, Notion, Coursera",social media,4,4,4,4,Hàng tuần,Đã từng,Chưa,computer science
+m,cntt,2,"Chat-GPT, Microsoft Copilot, Google Bard, Turnitin","social media, friends recommendation",4,4,4,5,Hàng tuần,Đã từng,Chưa,computer science
+f,kinh doanh thương mại,2,Chat-GPT,social media,4,3,3,2,Hiếm khi,Đã từng,Chưa,Economic
+m,khmt,1,"Chat-GPT, Microsoft Copilot, Google Bard, ChatSonic ",social media,5,4,5,4,Hàng tuần,Đã từng,Chưa,computer science
+m,khmt,1,"Chat-GPT, Google Bard","social media, friends recommendation",3,3,4,4,Hàng tuần,Đã từng,Đã từng,computer science
+f,hệ thống thông tin quản lý,2,"Chat-GPT, Grammarly, Turnitin, Coursera, Edx","social media, friends recommendation",4,4,4,5,Hàng tuần,Đã từng,Chưa,computer science
+m,khoa học máy tính,1,"Chat-GPT, Google Bard","social media, friends recommendation",3,3,3,3,Hàng ngày,Đã từng,Chưa,computer science
+f,khoa học máy tính,2,"Chat-GPT, Microsoft Copilot, Google Bard, Notion, Turnitin",friends recommendation,5,4,5,5,Hàng ngày,Đã từng,Chưa,computer science
+f,hệ thống thông tin,2,"Chat-GPT, Coursera","social media, friends recommendation",3,3,3,4,Hàng tuần,Đã từng,Đã từng,computer science
+m,it,1,"Chat-GPT, Microsoft Copilot","social media, friends recommendation",3,3,3,4,Hàng ngày,Đã từng,Chưa,computer science
+f,quản trị kinh doanh,2,"Chat-GPT, Notion","social media, friends recommendation",3,3,3,3,Hiếm khi,Đã từng,Đã từng,Economic
+m,công nghệ thông tin,1,"Chat-GPT, Microsoft Copilot, Google Bard, Grammarly, Notion","social media, friends recommendation",4,4,4,4,Hàng ngày,Đã từng,Chưa,computer science
+f,hệ thống thông tin quản lý,3,"Chat-GPT, Notion","social media, friends recommendation",4,4,4,4,Hàng ngày,Đã từng,Chưa,computer science
+m,an toàn thông tin,2,"Chat-GPT, Turnitin, GPTZero, Coursera",independent discovery,4,4,4,4,Hàng tuần,Đã từng,Đã từng,computer science
+f,khoa học máy tính,1,"Google Bard, Coursera",social media,3,2,2,2,Hiếm khi,Chưa,Chưa,computer science
+m,tài chính ngân hàng,2,"Chat-GPT, Microsoft Copilot, Grammarly","social media, friends recommendation",5,4,4,4,Hàng tháng,Đã từng,Đã từng,Finance
+m,khoa học máy tính,1,"Chat-GPT, Google Bard",friends recommendation,4,4,4,4,Hàng tuần,Đã từng,Chưa,computer science
+m,cntt,3,"Chat-GPT, Google Bard",social media,5,4,4,5,Hàng ngày,Đã từng,Chưa,computer science
+f,du lịch,2,Chat-GPT,"social media, friends recommendation",4,3,4,5,Hàng tuần,Đã từng,Đã từng,Economic
+m,vật liệu,2,Chat-GPT,social media,5,5,5,3,Hàng tháng,Đã từng,Đã từng,Engineering
+m,công nghệ thông tin,1,"Chat-GPT, Microsoft Copilot, Grammarly, Turnitin","social media, friends recommendation",5,5,5,5,Hàng ngày,Đã từng,Đã từng,computer science
+m,khoa học dữ liệu trong kinh tế và kinh doanh(dseb),1,Chat-GPT,"social media, friends recommendation",4,3,4,4,Hàng tuần,Đã từng,Chưa,computer science
+f,cntt và chuyển đổi số clc,2,"Chat-GPT, Grammarly, Notion, Coursera","social media, friends recommendation",5,4,5,5,Hàng ngày,Đã từng,Chưa,computer science
+m,cntt,3,"Chat-GPT, Microsoft Copilot, Turnitin","social media, friends recommendation",5,5,5,5,Hàng tuần,Đã từng,Đã từng,computer science
+f,ktpt,3,"Chat-GPT, Grammarly, Turnitin","social media, friends recommendation",5,4,4,5,Hàng tuần,Đã từng,Đã từng,Economic
+m,dktdh,2,"Chat-GPT, bing",friends recommendation,3,1,2,2,Hiếm khi,Đã từng,Chưa,Engineering
+m,khoa học máy tính,1,"Chat-GPT, Microsoft Copilot","social media, friends recommendation",4,3,4,4,Hàng tuần,Đã từng,Chưa,computer science
+m,it,1,"Chat-GPT, Grammarly","social media, friends recommendation",3,3,4,4,Hàng tuần,Đã từng,Đã từng,computer science
+f,marketing,2,"Chat-GPT, Microsoft Copilot, Grammarly, Google assistant, Dall-e3","social media, independent discovery",4,4,3,5,Hàng ngày,Đã từng,Chưa,Economic
+m,it,1,"Chat-GPT, poe.com","social media, friends recommendation",3,3,3,3,Hàng tháng,Đã từng,Chưa,computer science
+m,tài chính,2,Chat-GPT,"social media, friends recommendation",5,5,5,5,Hàng tuần,Đã từng,Đã từng,Finance
+m,công nghệ thông tin,3,"Chat-GPT, Microsoft Copilot, Google Bard",social media,4,3,3,4,Hàng tuần,Đã từng,Chưa,computer science
+f,khoa học mây tính,2,"Chat-GPT, Google Bard",friends recommendation,5,5,5,5,Hàng tuần,Đã từng,Chưa,computer science
+f,tiếng nhật thương mại,4,"Chat-GPT, Notion",friends recommendation,4,3,4,4,Hàng tháng,Đã từng,Chưa,Language
+f,tài chính,4,"Chat-GPT, Google Bard, Notion, Turnitin","social media, friends recommendation",5,5,5,5,Hàng tuần,Chưa,Đã từng,Finance
+m,it,1,Chat-GPT,social media,3,3,3,4,Hàng tuần,Chưa,Đã từng,computer science
+m,công nghệ thông tin,3,"Chat-GPT, Google Bard, Coursera",social media,4,4,3,3,Hàng tuần,Đã từng,Đã từng,computer science
+m,cntt,4,"Chat-GPT, Microsoft Copilot, Grammarly, Notion",independent discovery,5,5,5,5,Hàng tuần,Chưa,Chưa,computer science
+f,ngôn ngữ hàn,4,"Chat-GPT, Google Bard, Grammarly, Notion",social media,4,4,4,4,Hàng tháng,Đã từng,Chưa,Language
+f,ngành công nghệ thông tin,4,"Chat-GPT, Grammarly, Notion, Turnitin, Coursera","social media, friends recommendation",4,4,4,4,Hàng ngày,Đã từng,Đã từng,computer science
+m,marketing,2,"Chat-GPT, Google Bard, Grammarly, Notion, Turnitin",social media,5,4,4,5,Hàng tuần,Đã từng,Đã từng,Economic
+m,hệ thống thông tin quản lý,4,"Chat-GPT, Notion, Turnitin, Coursera",social media,5,5,5,4,Hàng tuần,Đã từng,Chưa,computer science
+m,khoa học máy tính,4,"Chat-GPT, Microsoft Copilot, Google Bard, Turnitin, Gemini",independent discovery,5,5,4,5,Hàng tuần,Đã từng,Chưa,computer science
+m,khoa học máy tính,4,"Chat-GPT, Google Bard",social media,4,4,4,1,Hàng tuần,Đã từng,Chưa,computer science
+m,khoa học máy tính,1,"Chat-GPT, Microsoft Copilot, Google Bard, GPTZero","social media, friends recommendation",5,5,5,5,Hàng tuần,Đã từng,Đã từng,computer science
+m,khoa học máy tính 65,1,"Chat-GPT, Microsoft Copilot",social media,4,4,4,3,Hàng tuần,Đã từng,Chưa,computer science
+m,cntt,3,Chat-GPT,social media,5,3,3,3,Hàng ngày,Đã từng,Đã từng,computer science
+f,kế toán,1,"Chat-GPT, Google Bard, Grammarly",social media,2,2,3,2,Hiếm khi,Đã từng,Chưa,Economic
+f,kĩ thuật phần mềm,1,"Chat-GPT, Microsoft Copilot, Grammarly, Coursera","social media, friends recommendation",5,5,5,5,Hàng ngày,Đã từng,Chưa,computer science
+m,hệ thống thông tin quản lý,1,Chat-GPT,social media,4,4,5,5,Hàng tuần,Đã từng,Chưa,computer science
+m,quản trị kinh doanh,1,Chat-GPT,social media,3,4,3,3,Hàng tuần,Đã từng,Chưa,Economic
+m,điện tử viễn thông,1,"Chat-GPT, Microsoft Copilot","social media, friends recommendation",3,4,3,3,Hàng tuần,Đã từng,Chưa,computer science
+m,mạng máy tính,1,"Chat-GPT, Microsoft Copilot, GPTZero","social media, friends recommendation",2,5,5,4,Hàng ngày,Đã từng,Chưa,computer science
+f,y khoa,1,Chat-GPT,"social media, friends recommendation",3,3,3,3,Hiếm khi,Chưa,Chưa,Medication
+m,kỹ thuật phần mềm,1,Microsoft Copilot,social media,5,3,2,3,Hiếm khi,Chưa,Chưa,computer science
+m,khoa học máy tính,3,"Chat-GPT, Google Bard, Notion","social media, friends recommendation",5,4,5,5,Hàng ngày,Đã từng,Đã từng,computer science
+m,cntt,1,Chat-GPT,friends recommendation,5,5,5,5,Hiếm khi,Đã từng,Chưa,computer science
+f,luật,4,Turnitin,social media,4,4,4,4,Hàng tháng,Đã từng,Đã từng,Law
+f,tài chính doanh nghiệp,4,"Chat-GPT, Microsoft Copilot, Google Bard, Grammarly, Notion, Turnitin, Coursera","social media, friends recommendation",5,5,5,5,Hàng tháng,Đã từng,Chưa,Finance
+f,hệ thống thông tin quản lý,2,"Chat-GPT, Grammarly, Notion, Coursera",social media,3,3,4,4,Hàng ngày,Đã từng,Chưa,computer science
+m,kĩ thuật hàng không,1,Chat-GPT,friends recommendation,3,3,3,3,Hàng tuần,Đã từng,Đã từng,Engineering
+m,khoa học dữ liệu & trí tuệ nhân tạo (hust),1,Chat-GPT,social media,3,3,4,5,Hàng ngày,Đã từng,Chưa,computer science
+f,công nghệ thông tin,graduate,"Chat-GPT, Microsoft Copilot, Google Bard, Grammarly, Notion, Coursera, Edx","social media, friends recommendation",5,5,5,5,Hàng ngày,Đã từng,Đã từng,computer science
+m,cntt,4,Chat-GPT,"social media, friends recommendation",4,4,4,4,Hàng tuần,Đã từng,Chưa,computer science
+m,kĩ thuật ô tô,1,"Chat-GPT, Microsoft Copilot, Google Bard, Grammarly","social media, friends recommendation",4,4,4,4,Hàng ngày,Đã từng,Chưa,Engineering
+m,ngân hàng,1,Chat-GPT,friends recommendation,4,3,3,3,Hàng tháng,Đã từng,Chưa,Finance
+f,công nghệ thông tin,3,"Chat-GPT, Microsoft Copilot",friends recommendation,4,4,4,4,Hàng tuần,Chưa,Chưa,computer science
+f,công nghệ thông tin,3,Chat-GPT,social media,4,4,4,5,Hàng tuần,Đã từng,Chưa,computer science
+f,công nghệ thông tin,3,"Chat-GPT, Google Bard, Notion",friends recommendation,4,4,4,4,Hàng ngày,Đã từng,Đã từng,computer science
+m,hệ thống thông tin quản lý,3,Chat-GPT,social media,5,5,5,5,Hàng tuần,Đã từng,Đã từng,computer science
+m,công nghê thông tin,3,"Chat-GPT, Grammarly",social media,5,5,5,5,Hàng ngày,Đã từng,Chưa,computer science
+m,marketing,1,"Chat-GPT, Microsoft Copilot, Google Bard, Grammarly, Turnitin","social media, friends recommendation",5,5,5,5,Hàng tháng,Đã từng,Chưa,Economic
+m,cntt,3,"Chat-GPT, Google Bard, Grammarly","social media, friends recommendation",5,3,4,4,Hàng tuần,Đã từng,Chưa,computer science
+m,công nghệ thông tin,3,Chat-GPT,social media,3,3,3,3,Hàng tháng,Đã từng,Chưa,computer science
+m,cntt,3,"Chat-GPT, Microsoft Copilot, Google Bard, Notion",social media,4,3,4,4,Hàng tuần,Chưa,Chưa,computer science
+m,khoa học máy tính,1,Microsoft Copilot,friends recommendation,3,3,3,3,Hàng ngày,Đã từng,Chưa,computer science
+m,công nghệ thông tin,3,"Chat-GPT, Microsoft Copilot, Google Bard, Notion",social media,4,4,4,4,Hàng ngày,Đã từng,Chưa,computer science
+m,cntt,4,"Chat-GPT, Microsoft Copilot, Grammarly, Notion","social media, friends recommendation",4,3,4,4,Hàng tháng,Đã từng,Đã từng,computer science
+f,khoa học máy tính,2,"Grammarly, Coursera",social media,3,3,4,3,Hiếm khi,Chưa,Chưa,computer science
+m,công nghệ tài chính,4,"Chat-GPT, Google Bard, Grammarly","social media, friends recommendation",4,4,5,4,Hàng ngày,Đã từng,Đã từng,computer science
+f,kdqt,4,Chat-GPT,"social media, friends recommendation",4,2,4,4,Hàng tuần,Chưa,Đã từng,Economic
+m,quản trị sự kiện,1,"Chat-GPT, Google Bard, Grammarly, Notion","social media, friends recommendation",4,3,4,5,Hàng tuần,Chưa,Chưa,Economic
+f,công nghệ thông tin,3,"Chat-GPT, Microsoft Copilot, Google Bard, Notion, Coursera","social media, friends recommendation",5,4,4,4,Hàng ngày,Đã từng,Đã từng,computer science
+f,digital marketing,2,"Google Bard, Grammarly, Turnitin, You.ai",friends recommendation,4,4,4,4,Hàng tuần,Đã từng,Đã từng,Economic
+f,htttql,3,"Chat-GPT, Google Bard, Turnitin","social media, friends recommendation",3,3,3,3,Hàng tuần,Đã từng,Đã từng,computer science
+m,công nghệ thông tin,4,"Chat-GPT, Notion, Turnitin, Coursera","social media, friends recommendation",5,5,5,5,Hàng tuần,Đã từng,Đã từng,computer science
+m,cntt,3,"Chat-GPT, Microsoft Copilot, Google Bard, Notion, Poe",social media,3,3,3,3,Hàng ngày,Đã từng,Đã từng,computer science
+m,kiến trúc và quy hoạch,4,Not use,"social media, friends recommendation",5,5,5,4,Hàng tháng,Chưa,Chưa,Economic
+f,tài chính ngân hàng,4,"Chat-GPT, Grammarly, Notion","social media, friends recommendation",5,4,4,4,Hàng tuần,Đã từng,Đã từng,Finance
